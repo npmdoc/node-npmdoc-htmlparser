@@ -1,6 +1,6 @@
 # npmdoc-htmlparser
 
-#### api documentation for  [htmlparser (v1.7.7)](http://github.com/tautologistics/node-htmlparser)  [![npm package](https://img.shields.io/npm/v/npmdoc-htmlparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-htmlparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-htmlparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-htmlparser)
+#### basic api documentation for  [htmlparser (v1.7.7)](http://github.com/tautologistics/node-htmlparser)  [![npm package](https://img.shields.io/npm/v/npmdoc-htmlparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-htmlparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-htmlparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-htmlparser)
 
 #### Forgiving HTML/XML/RSS Parser in JS for *both* Node and Browsers
 
@@ -66,7 +66,8 @@
         "type": "git",
         "url": "git+https://github.com/tautologistics/node-htmlparser.git"
     },
-    "version": "1.7.7"
+    "version": "1.7.7",
+    "bin": {}
 }
 ```
 
